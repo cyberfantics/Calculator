@@ -12,11 +12,11 @@ A calculator built with HTML, CSS, and JavaScript. This project demonstrates fun
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-calculator.git
+   git clone https://github.com/cyberfantics/Calculator.git
    ```
 2. Open Folder:
  ```
- cd simple-calculator
+ cd Calculator
  ```
 3. Open `index.html` in browser
 
